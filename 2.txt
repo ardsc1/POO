@@ -1,0 +1,5 @@
++publico : a classe atual e todas as outras classes
+
+- privado: somente a classe atual
+
+# protegido: a classe atuak e todas as suas subclasses

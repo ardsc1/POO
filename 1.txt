@@ -1,0 +1,2 @@
+POO = ATRIBUTOS , MÉTODOS(function) E ESTADO
+Se tiver parentese é um metodo, se não, atributo.
