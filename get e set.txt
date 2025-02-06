@@ -1,0 +1,5 @@
+Métodos acessores(Getters) 
+Permite obter valor de um atributo privado
+---------------------------------------------------------------------
+Metodoso Modificadores(setters)
+Permite definir ou modificar o valor de um atributo privado.

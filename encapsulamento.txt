@@ -1,0 +1,14 @@
+Enapsulamento:
+
+Encapsulamento significa proteger os dados dentro de uma classe. 
+Permitindo que apenas métodos específicos possam acessá-los ou modificá-los 
+.Isso evita que partes externas do código alterem diretamente os atributos da classe.
+
+Herança:--------------------------------------------------------------------------------------------------------------------------
+
+Herança permite que uma classe herde atributos e métodos de outra, evitando repetição de código e promovendo a reutilização.
+
+Polimorfismo:---------------------------------------------------------------------------------------------------------------------
+
+Polimorfismo significa que uma mesma função pode se comportar de maneiras diferentes, dependendo da classe que a implementa.
+
