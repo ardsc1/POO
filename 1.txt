@@ -1,2 +1,2 @@
-POO = ATRIBUTOS , MÉTODOS(function) E ESTADO
+POO = ATRIBUTOS , MÉTODOS E ESTADO
 Se tiver parentese é um metodo, se não, atributo.

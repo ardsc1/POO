@@ -13,7 +13,6 @@
       $c = new ControleRemoto();
       $c->ligar();
       $c->maisVolume();
-     
       $c->abrirMenu();
 
       
