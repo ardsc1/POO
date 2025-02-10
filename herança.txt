@@ -1,0 +1,3 @@
+Herança de Implementação: Herda e nao pode adicionar
+
+Herança para Diferença: Herda e pode adicionar
