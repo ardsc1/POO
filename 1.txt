@@ -1,2 +1,2 @@
-POO = ATRIBUTOS , MÉTODOS E ESTADO
+POO = ATRIBUTOS , MÉTODOS 
 Se tiver parentese é um metodo, se não, atributo.
